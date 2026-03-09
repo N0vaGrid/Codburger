@@ -1,0 +1,14 @@
+{
+  "item.codburger.codburger": "鳕鱼堡",
+  "itemGroup.codburger_tab": "鳕鱼堡",
+
+  "block.codburger.cheese_block": "奶酪方块",
+
+  "codburger.configuration.title": "Cod Burger Configs",
+  "codburger.configuration.section.codburger.common.toml": "Cod Burger Configs",
+  "codburger.configuration.section.codburger.common.toml.title": "Cod Burger Configs",
+  "codburger.configuration.items": "Item List",
+  "codburger.configuration.logDirtBlock": "Log Dirt Block",
+  "codburger.configuration.magicNumberIntroduction": "Magic Number Text",
+  "codburger.configuration.magicNumber": "Magic Number"
+}

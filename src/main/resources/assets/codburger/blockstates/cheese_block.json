@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "codburger:block/cheese_block"
+    }
+  }
+}
