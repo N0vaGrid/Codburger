@@ -85,5 +85,5 @@ If you enjoy the mod, feel free to give feedback or suggestions!
 ## Credits
 
 * **BHT415303** – Help me with the mod texture drawing.
-* **Minecraft NeoForge Community** – Documentation and modding tools
+* **Minecraft NeoForge Community** – Documentation and modding tools.
 
