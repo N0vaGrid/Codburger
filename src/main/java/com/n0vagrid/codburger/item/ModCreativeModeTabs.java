@@ -21,7 +21,9 @@ public class ModCreativeModeTabs {
             .title(Component.translatable("itemGroup.codburger_tab"))
             .displayItems((parameters, output) -> {
                 output.accept(ModItems.COD_BURGER);
+                output.accept(ModItems.LETTUCE_LEAF);
                 output.accept(ModBlocks.CHEESE_BLOCK);
+
             })
             .build());
 

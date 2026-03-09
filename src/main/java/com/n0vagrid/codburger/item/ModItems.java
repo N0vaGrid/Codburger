@@ -38,6 +38,10 @@ public class ModItems {
                                     )
                     )
             );
+    public static final DeferredItem<Item> LETTUCE_LEAF =
+            ITEMS.register("lettuce_leaf",
+                    ()->new Item(new Item.Properties())
+            );
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
