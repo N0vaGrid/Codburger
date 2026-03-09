@@ -33,7 +33,7 @@ public class ModItems {
                                     .food(
                                             new FoodProperties.Builder()
                                                     .nutrition(8)
-                                                    .saturationModifier(1.2f)
+                                                    .saturationModifier(1.0f)
                                                     .build()
                                     )
                     )
